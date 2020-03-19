@@ -11,5 +11,5 @@ Just copy `AqOP-1.control.js` to following folders:
 ## Whats does it support?
 
 * PLAY / STOP / REC buttons
-* Metronome toogle
-* Loop toogle (Button 3 green)
+* Metronome toggle
+* Loop toggle (Button 3 green)
