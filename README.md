@@ -1,4 +1,4 @@
-# OP-1 Controller script
+# OP-1 Controller script for Bitwig
 Simple version for OP-1. 
 
 ## Install
